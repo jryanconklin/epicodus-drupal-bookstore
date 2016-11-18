@@ -1,8 +1,8 @@
 # Eliza's Bookstore
 Epicodus - Drupal - Code Review 1
 
-## Features
-A Drupal website for Eliza, a bookstore owner in New York.
+## Description
+A Drupal website for Eliza, a bookstore owner in New York. 
 
 ## Technologies
 
