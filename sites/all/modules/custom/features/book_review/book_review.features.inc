@@ -31,7 +31,7 @@ function book_review_node_info() {
       'description' => t('Add a Book Review'),
       'has_title' => '1',
       'title_label' => t('Book Title'),
-      'help' => t('Add the Title of the Book'),
+      'help' => '',
     ),
   );
   drupal_alter('node_info', $items);
